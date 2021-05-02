@@ -1,7 +1,7 @@
-# [learning-ajax](https://www.w3schools.com/xml/ajax_intro.asp)
+# [learning-ajax](https://imvickykumar999.github.io/learning-ajax/)
 ### ...reflect changes in html page without refreshing 
 
-## What is AJAX?
+## [What is AJAX?](https://www.w3schools.com/xml/ajax_intro.asp)
 AJAX = Asynchronous JavaScript And XML.
 
 AJAX is not a programming language.
@@ -14,4 +14,4 @@ AJAX is a misleading name. AJAX applications might use XML to transport data, bu
 
 AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
 
-![image](https://user-images.githubusercontent.com/50515418/116826062-c81e7d80-abaf-11eb-8651-0dea30eb59d9.png)
+[![image](https://user-images.githubusercontent.com/50515418/116826062-c81e7d80-abaf-11eb-8651-0dea30eb59d9.png)](https://www.w3schools.com/xml/tryit.asp?filename=tryajax_first)
