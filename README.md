@@ -13,3 +13,5 @@ JavaScript and HTML DOM (to display or use the data)
 AJAX is a misleading name. AJAX applications might use XML to transport data, but it is equally common to transport data as plain text or JSON text.
 
 AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
+
+![image](https://user-images.githubusercontent.com/50515418/116826062-c81e7d80-abaf-11eb-8651-0dea30eb59d9.png)
